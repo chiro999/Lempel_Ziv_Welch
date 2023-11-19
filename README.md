@@ -1,2 +1,2 @@
-# backtracking_algorithms
- Backtracking is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time.
+# LZW
+LZW (Lempel–Ziv–Welch) is a universal lossless data compression technique. This compression algorithm was developed by Abraham Lempel, Jakob Ziv, and Terry Welch. In hardware implementations, the algorithm is simple and has the potential for very high throughput. It is the algorithm used in the GIF image format and is part of the widely used Unix file compression utility compress.
